@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[22981,["/_next/static/chunks/eb552a4643774559.js","/_next/static/chunks/6ccb0cc440f3648e.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"qm0Mo2rwuoyXIa49iaa-_","rsc":["$","$1","c",{"children":[["$","html",null,{"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"refresh","content":"0;url=/en"}],["$","link",null,{"rel":"canonical","href":"https://wealthfundai.com/en"}]]}],["$","body",null,{}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
